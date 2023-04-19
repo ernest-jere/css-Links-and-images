@@ -1,0 +1,41 @@
+.heading {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+img {
+    margin: auto;
+    display: block;
+    margin-top: 12px;
+    border-radius: 10px;
+}
+
+.container {
+    display: flex;
+    padding: 3px;
+    flex-direction: column;
+}
+
+.links {
+    background-color: #ed143d75;
+    padding: 4px;
+}
+
+.image-container {
+    text-align: center;
+    color: gray;
+    font-family: Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    padding: 2px;
+    border: 1px solid blue;
+}
+
+img.picture {
+    border: 1px solid black;
+    box-shadow: 2px 2px 6px black;
+}
